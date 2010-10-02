@@ -48,7 +48,6 @@
 "               grep).  Special keys include:
 "
 "                 <Enter>  open selected match
-"                 <Tab>    open selected match
 "                 <Esc>    cancel
 "                 <C-c>    cancel
 "                 <C-g>    cancel
@@ -57,6 +56,7 @@
 "                 <C-o>    open selected match in a new h[o]rizontal split
 "                 <C-v>    open selected match in a new [v]ertical split
 "
+"                 <Tab>    select [n]ext match
 "                 <C-n>    select [n]ext match
 "                 <C-p>    select [p]revious match
 "
